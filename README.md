@@ -27,4 +27,4 @@ I'm a Software Engineer and ❤️ everything about the software development wor
 
 ## Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luvuong-le.vistor-badge)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fluvuong-le)
