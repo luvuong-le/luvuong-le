@@ -14,6 +14,10 @@ I'm a Software Engineer and ❤️ everything about the software development wor
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Connect with me on the web 🌐
 
 - [![GitHub followers](https://img.shields.io/github/followers/luvuong-le.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/luvuong-le?tab=followers)
