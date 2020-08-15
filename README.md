@@ -16,11 +16,11 @@ I'm a Software Engineer and ❤️ everything about the software development wor
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I decided to start blogging and why we all should 🙌](https://dev.to/coderarchive/why-i-decided-to-start-blogging-and-why-we-all-should-1ije)
 - [Event Delegation in JS](https://dev.to/coderarchive/event-delegation-in-js-1aff)
 - [Building a Code Editor for the Web - Output to Custom Console](https://dev.to/coderarchive/building-a-code-editor-for-the-web-output-to-custom-console-3kgb)
 - [My 100 Days Of Code Journey](https://dev.to/coderarchive/my-100-days-of-code-journey-4n5n)
 - [Building a Code Editor for the Web - Redefining the Console](https://dev.to/coderarchive/building-a-code-editor-for-the-web-redefining-the-console-1416)
-- [Building a Code Editor for the Web - Configuring Ace Editor](https://dev.to/coderarchive/building-a-code-editor-for-the-web-configuring-ace-editor-507h)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me on the web 🌐
