@@ -44,9 +44,9 @@ I'm a Software Developer 👨‍💻 and ❤️ everything about the Software De
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing a High Quality README! 🔥](https://dev.to/coderarchive/writing-a-high-quality-readme-1k3j)
 - [Coping with Imposter Syndrome 🙏](https://dev.to/coderarchive/coping-with-imposter-syndrome-1nj)
 - [Learn Markdown in 20 minutes](https://dev.to/coderarchive/learn-markdown-in-20-minutes-28ie)
 - [Migrating Posts from Medium to DEV](https://dev.to/coderarchive/migrating-posts-from-medium-to-dev-332p)
 - [Why I decided to start blogging and why we all should 🙌](https://dev.to/coderarchive/why-i-decided-to-start-blogging-and-why-we-all-should-1ije)
-- [Event Delegation in JS](https://dev.to/coderarchive/event-delegation-in-js-1aff)
 <!-- BLOG-POST-LIST:END -->
